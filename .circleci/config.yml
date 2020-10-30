@@ -7,4 +7,3 @@ workflows:
       - docker/publish:
           image: kaihartz/weatherpredictor
           tag: 'latest'
-
